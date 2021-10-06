@@ -1,0 +1,2 @@
+# Python application development: mail sending GUI program
+ Python application development: mail sending GUI program.You can use this desktop GUI program and use it locally. You can send the email you want to send without logging in to the email website or email app, and you can also choose whether to send attachments according to your needs. You need to fill in your email account information through the configuration file before use! This program has high security and portability, and hope to have a positive impact on your life and work!
